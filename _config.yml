@@ -1,3 +1,4 @@
 name: Helloqidi的博客
 markdown: redcarpet
 pygments: true
+baseurl: /jekyll_blog
